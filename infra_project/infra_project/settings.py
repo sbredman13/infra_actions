@@ -29,7 +29,7 @@ ALLOWED_HOSTS = [
     '158.160.40.200',
     'localhost',
     'sbredmanpracticum.servequake.com'
-
+]
 
 # Application definition
 
